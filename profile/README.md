@@ -1,4 +1,7 @@
 [![One Among Us][banner]][site]
 
+- Before your contribution, please read our [Documentation and Contribution Guidelines](https://github.com/one-among-us/how-we-work).
+- 在参与贡献之前，请阅读我们的 [文档和贡献指南](https://github.com/one-among-us/how-we-work/blob/main/README-zh_Hans.md)。
+
 [banner]: https://one-among.us/banner.png "那些秋叶 ~ One Among Us ~"
 [site]: https://one-among.us
