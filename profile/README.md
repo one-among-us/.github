@@ -14,6 +14,7 @@
 
 ## Remembrance
 - [ArtsEpiphany](https://one-among.us/profile/ArtsEpiphany/), our formerly Content Operator, passed on Mar 13, 2023. She did a great work in fact-checking and guiding  other contributors to write and pull-request properly.
+- [Elihuso Quigley](https://github.com/LS-KR), our former tech support, full of bright and playful ideas. In September 2025, the sweet cat girl went to Antares, just as she once said.
 
 [banner]: https://one-among.us/banner.png "那些秋叶 ~ One Among Us ~"
 [site]: https://one-among.us
